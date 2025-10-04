@@ -2,24 +2,26 @@ clear
 mkdir Tools
 clear 
 echo -e '\033[31;40;1m 
-  █████╗ ██╗             ████████╗ ██████╗  ██████╗ ██╗
- ██╔══██╗██║             ╚══██╔══╝██╔═══██╗██╔═══██╗██║
- ███████║██║     ███████╗   ██║   ██║   ██║██║   ██║██║
- ██╔══██║██║     ╚══════╝   ██║   ██║   ██║██║   ██║██║
- ██║  ██║███████╗           ██║   ╚██████╔╝╚██████╔╝███████╗
- ╚═╝  ╚═╝╚══════╝           ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝ v4
-  Coded by 4lbH4cker
-  github: https://github.com/4lbH4cker
+ 
+███████╗██╗░░██╗████████╗██████╗░███╗░░██╗██╗░░░░░░░░░░░████████╗██╗░░░░░
+██╔════╝╚██╗██╔╝╚══██╔══╝██╔══██╗████╗░██║██║░░░░░░░░░░░╚══██╔══╝██║░░░░░
+█████╗░░░╚███╔╝░░░░██║░░░██████╔╝██╔██╗██║██║░░░░░█████╗░░░██║░░░██║░░░░░
+██╔══╝░░░██╔██╗░░░░██║░░░██╔══██╗██║╚████║██║░░░░░╚════╝░░░██║░░░██║░░░░░
+███████╗██╔╝╚██╗░░░██║░░░██║░░██║██║░╚███║███████╗░░░░░░░░░██║░░░███████╗
+╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝░░░░░░░░░╚═╝░░░╚══════╝
+ v4
+  Coded by Extrnl #TOOLS
+  github: https://github.com/lfgz19vt-cyber
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
 
-\e[37m[1]\e[36m Kërkesat & Përditësimi        \e[37m[2]\e[36m Phishing Tool				
+\e[37m[1]\e[36m Requests & Update             \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
-\e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m Si të përdorni ?	          \e[37m[8]\e[36m Çinstaloni programet e shkarkuara		
-\e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
+\e[37m[5]\e[36m Gmail Bomber		          \e[37m[6]\e[36m DDOS Attack			
+\e[37m[7]\e[36m How to use ?	              \e[37m[8]\e[36m Uninstall downloaded programs	
+\e[37m[9]\e[36m Ip Info	                      \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
-\e[37m[15]\e[36m BadMod	                  \e[37m[16]\e[36m Facebash
+\e[37m[15]\e[36m BadMod	                      \e[37m[16]\e[36m Facebash
 \e[37m[17]\e[36m DARKARMY                     \e[37m[18]\e[36m AUTO-IP-CHANGER
 
 '
@@ -28,11 +30,11 @@ echo -e '\033[31;40;1m
 #Zgjedhja e Opsionit
 
 
-read -p "Numri i transaksionit: " islem
+read -p "Transaction number: " islem
 if [[ $islem == 1 || $islem == 01 ]]; then
 clear
 
-echo -e "\033[47;31;5m Po instalon përditësimin dhe kërkesat...\033[0m"
+echo -e "\033[47;31;5m Installing update and requirements...\033[0m"
 sleep 5
 pkg install git -y
 pkg install python python3 -y
@@ -41,13 +43,13 @@ pkg install curl -y
 apt update
 apt upgrade -y
 clear
-echo -e "\033[47;3;35m Përditësimi i plotë...\033[0m"
+echo -e "\033[47;3;35m Full update...\033[0m"
 sleep 3
-bash alhack.sh
+bash extrnl.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m Installation may take some time.\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/htr-tech/zphisher
@@ -56,7 +58,7 @@ bash zphisher.sh
 
 elif [[ $islem == 3 || $islem == 03 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m Installation may take a while.kohe\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/techchipnet/CamPhish
