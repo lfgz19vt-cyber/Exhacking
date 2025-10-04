@@ -31,6 +31,22 @@ echo -e '\033[31;40;1m
 
 
 read -p "Transaction number: " islem
+# allow user to run "cd extrnl" from the prompt without changing rest of script
+if [[ "$islem" == "cd extrnl" || "$islem" == "cd extrnl/" ]]; then
+  if [ -d "extrnl" ]; then
+    cd extrnl || true
+    echo "Changed directory to $(pwd). Returning to menu..."
+    sleep 1
+    bash extrnl.sh
+    exit
+  else
+    echo "Directory 'extrnl' not found."
+    sleep 1
+    bash extrnl.sh
+    exit
+  fi
+fi
+
 if [[ $islem == 1 || $islem == 01 ]]; then
 clear
 
