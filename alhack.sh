@@ -247,5 +247,5 @@ else
         echo -e '\033[36;40;1m Keni futur kodin e gabuar'	
 	sleep 1
 	clear 
-	bash alhack.sh
+	bash extrnl.sh
 fi
