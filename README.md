@@ -1,7 +1,7 @@
-Author: 4lbH4cker
-### Version 4
+Author: DEXTER 
+### Version 25
 
-(![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
+
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
@@ -20,9 +20,9 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
-* `<cd ALHacking>`
-* `<bash alhack.sh>`
+* Then`<git clone https://github.com/lfgz19vt-cyber/Exhacking>`
+* `<cd Exhacking>`
+* `<bash extrnl.sh>`
 
 
 # Warning
@@ -30,5 +30,9 @@ works on any of the following operating systems:
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
-❤️ Support me:
-https://www.paypal.me/Relvllahi
+❤️ Support me: by joining the discord
+EXTRNL: https://discord.gg/zMagxCsnC5
+AND
+HOLLOW: https://discord.gg/Y4ne7ugdZT
+
+
