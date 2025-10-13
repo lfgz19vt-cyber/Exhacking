@@ -7,8 +7,9 @@ Author: DEXTER
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
 • Powerful DDOS attack tool!!
+<img width="836" height="586" alt="image" src="https://github.com/user-attachments/assets/f339a3b0-5243-453b-83df-a6a159030178" />
 
-Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY
+
 # Operating System Requirements
 works on any of the following operating systems:
 
