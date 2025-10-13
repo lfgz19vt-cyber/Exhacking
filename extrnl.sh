@@ -9,11 +9,11 @@ echo -e '\033[31;40;1m
 ██╔══╝░░░██╔██╗░░░░██║░░░██╔══██╗██║╚████║██║░░░░░╚════╝░░░██║░░░██║░░░░░
 ███████╗██╔╝╚██╗░░░██║░░░██║░░██║██║░╚███║███████╗░░░░░░░░░██║░░░███████╗
 ╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚══════╝░░░░░░░░░╚═╝░░░╚══════╝
- v4             DISCORD: https://discord.gg/zMagxCsnC5 | MADE BY | DX4RR / VEXFULY |
+ v25              DISCORD: https://discord.gg/zMagxCsnC5 | MADE BY | DX4RR / VEXFULY |
   Coded by Extrnl #TOOLS
   github: https://github.com/lfgz19vt-cyber
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m DX4RR
-
+pussy ass nigga if you want more tools join the discord 
 \e[37m[1]\e[36m Requests & Update             \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
 \e[37m[5]\e[36m Gmail Bomber		          \e[37m[6]\e[36m DDOS Attack			
